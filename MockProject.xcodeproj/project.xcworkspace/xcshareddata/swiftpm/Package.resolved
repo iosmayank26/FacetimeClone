@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HMSSDK",
+        "repositoryURL": "https://github.com/100mslive/100ms-ios-sdk",
+        "state": {
+          "branch": "main",
+          "revision": "ebb6dab6b16472af405cdef5d74e59aea7e90300",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
